@@ -55,7 +55,6 @@
   "files": [
     "docs",
     "examples",
-    "src",
     "modbus",
     "supporter.js"
   ],
